@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1000px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    background: rgb(66, 103, 178);
+}
+
+#header-link{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+h
+#Log-In{
+    background-color: aqua;
+    color: white;
+    font-weight: bolder;
+
+}
+.left-side-h3{
+    padding-top: 40px;
+}
+
+header img{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px; 
+}
+.main-content{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+.left-side{
+    padding: 40px 20px 20px 40px;
+}
+.right-side{
+    border:1px solid red;
+    border-bottom: 20px;
+
+}
+.sign-button{
+    background-color: rgb(21, 231, 35);
+    padding-inline: 10% ;
+    color: white;
+    font-weight: bold;
+}
+.right-side p{
+    border-width: 5px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+footer{
+    margin: 2rem auto;
+}
+.First-footer-center{
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+.Second-footer-center{
+    display: flex;
+    justify-content: space-between;
+}
+.Second-footer-center1{
+
+}
+.Second-footer-center2{
+    display: flex;
+    justify-content: space-between;
+
+}
+.empty third side{
+    border: 1px solid green;
+}
+li{
+    list-style: none;
+}
